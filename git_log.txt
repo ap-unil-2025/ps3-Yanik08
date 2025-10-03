@@ -1,3 +1,5 @@
+d3768f9 Personalize hello message
+ac6318a Add git history
 2c3ff52 Add hello_git.py
 90cd71c Add git history
 753e444 Personalize hello message
